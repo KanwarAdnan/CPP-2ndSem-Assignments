@@ -1,0 +1,6 @@
+ Constructor of B
+ Constructor of A
+ Constructor of C
+ Destructor of C
+ Destructor of A
+ Destructor of B
